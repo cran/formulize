@@ -1,0 +1,11 @@
+30c4e4fdf26c3c5398999e1fb6bea3d8 *DESCRIPTION
+e47bb5d4991c9d0a08f0dbbf8a0a7458 *LICENSE
+43b360090298739c7d62be750c16c8b1 *NAMESPACE
+bdc23ba65a7650456e750bc786a543cb *NEWS.md
+4fd0287c4d4a4b29ca0cfc2af8bafb54 *R/formulize.R
+ef658330ac9c51a9f231a9051515a39d *README.md
+b144dbc8d2aad4c6fc1898360113012d *man/formulize.Rd
+ceec036a5d93b44ed083d36d6fe3aece *man/genericize.Rd
+3d730f2e536c92f150db3c8a63ffafd1 *man/predict.wrapped.Rd
+33bc3989d8a7f64940b5f4c9f83465a4 *tests/testthat.R
+7d66542e021cb90b9dcee06578dea0f0 *tests/testthat/test_formulize.R
